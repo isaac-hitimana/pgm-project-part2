@@ -1,4 +1,4 @@
-# Text to Image Model in Keras
+# Text to Image Genaration Diffusion Model
 
 Codebase to train a CLIP conditioned Text to Image Diffusion model on Colab in Keras. See below for notebooks and examples with prompts.
 
